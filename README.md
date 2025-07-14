@@ -65,3 +65,7 @@ $ make prod-release tag=1.0.1
 
 ## Additional Information
 Authoring orb: https://circleci.com/docs/2.0/orb-author/
+
+## We're hiring!
+
+At Niteo we regularly contribute back to the Open Source community. If you do too, we'd like to invite you to [join our team](https://niteo.co/careers)!
